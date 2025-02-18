@@ -1,0 +1,49 @@
+.amazon-link{
+  color: blue;
+}
+.amazon-link:hover{
+color: red;
+}
+.Title{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+.Price{
+  color: rgb(113, 182, 11);
+  font-size: 20px;
+  font-weight: bold;
+}
+.Cart{
+  background-color: rgb(252, 227, 3);
+  color: black;
+  font-size: 15px;
+  border: none;
+  border-radius: 20px;
+  height: 40px;
+  width: 140px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+.Cart:hover{
+  opacity: 0.6;;
+}
+.Cart:active{
+  background-color: rgb(189, 170, 5);
+}
+.Buy{
+  background-color: orange;
+  color: black;
+  font-size: 15px;
+  border: none;
+  border-radius: 20px;
+  height: 40px;
+  width: 140px;
+  cursor: pointer;
+}
+.Buy:hover{
+  opacity: 0.6;
+}
+.Buy:active{
+  background-color: rgb(189, 170, 5);;
+}
